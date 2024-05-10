@@ -291,17 +291,12 @@ export const projects = [
     description:
       "Designed and developed the React Crud PHP, a project management app that helps users and to add like , Comment, Dislike etc. Implemented key features such as Authentication By PHP as Backend. The real user only do changes in their code",
     image:
-      "https://github-production-user-asset-6210df.s3.amazonaws.com/82169480/292683441-bc5fce30-43e4-410d-8556-abecde8e6a62.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240508%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240508T081636Z&X-Amz-Expires=300&X-Amz-Signature=3a1b2d5d2ea2041e4973baf68f7620f339aef5a1e924738723e4c2aff8744fe7&X-Amz-SignedHeaders=host&actor_id=82169480&key_id=0&repo_id=735319704",
-    tags: [
-      "React Js",
-      "PHP",
-      "Node Js",
-      "Authentication",
-      "MySQL"
-    ],
+      "https://th.bing.com/th/id/OIP.hpagWQwpGptHFRDA3LkfbAHaEK?rs=1&pid=ImgDetMain",
+    tags: ["React Js", "PHP", "Node Js", "Authentication", "MySQL"],
     category: "web app",
     github: "https://github.com/paramveer-srmscetr/ReactcrudUsingPhP",
-    webapp: "https://github-production-user-asset-6210df.s3.amazonaws.com/82169480/292683467-51d4ce3e-74c6-4cd8-b959-4fa7950ade7a.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240508%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240508T082215Z&X-Amz-Expires=300&X-Amz-Signature=872091c8eb932166fb583edf1409fbe1d73d53bdc10827d8326d645874b17bb1&X-Amz-SignedHeaders=host&actor_id=82169480&key_id=0&repo_id=735319704",
+    webapp:
+      "https://github-production-user-asset-6210df.s3.amazonaws.com/82169480/292683467-51d4ce3e-74c6-4cd8-b959-4fa7950ade7a.JPG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240508%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240508T082215Z&X-Amz-Expires=300&X-Amz-Signature=872091c8eb932166fb583edf1409fbe1d73d53bdc10827d8326d645874b17bb1&X-Amz-SignedHeaders=host&actor_id=82169480&key_id=0&repo_id=735319704",
   },
   {
     id: 2,
@@ -311,10 +306,19 @@ export const projects = [
       " Currently Working On It :- Preprocessed and augmented the dataset to improve model accuracy, trained the model, created API using model and Python, and used React web app for the project's front end. Achievements: Achieved an accuracy of 99.2% to accurately detect the Fake Currency.",
     image:
       " https://i.pinimg.com/originals/6f/d8/3f/6fd83f6c101f85bb417448302daedfb9.png",
-    tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React","Deep learning","Machine Learning"],
+    tags: [
+      "Python",
+      "Keras",
+      "TensorFlow",
+      "VGG16",
+      "Pickle",
+      "React",
+      "Deep learning",
+      "Machine Learning",
+    ],
     category: "machine learning",
     //github: "",
-   // webapp: "",
+    // webapp: "",
     // member: [
     //   {
     //     name: "",
@@ -337,12 +341,13 @@ export const projects = [
     description:
       " A Todo Web App made with React JS, Redux, and Material UI.  It has a down menu where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task. They can delete or edit their task.",
     image:
-    "https://private-user-images.githubusercontent.com/82169480/287316145-8ac5ea79-6772-444f-b8df-3a986fd83820.PNG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTUxNTc5NjUsIm5iZiI6MTcxNTE1NzY2NSwicGF0aCI6Ii84MjE2OTQ4MC8yODczMTYxNDUtOGFjNWVhNzktNjc3Mi00NDRmLWI4ZGYtM2E5ODZmZDgzODIwLlBORz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTA4VDA4NDEwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJiNzVlYTE5N2U1NzUyZjAzNjQ2NzIzYTUzOGJlYTdkNWIwNWJlZGViMDQ3YTJkOTc2OGI4ZjU5YWI5OTExYjImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Iq-DX-StjN-C-wKZweCXLk7urGQ3akV_zl0dkPgzXOI",    tags: ["React Js", "Local Storage", "AWS Auth", "Node JS"],
+      "https://github.com/paramveer-srmscetr/To-do-app/assets/82169480/8ac5ea79-6772-444f-b8df-3a986fd83820",
+    tags: ["React Js", "Local Storage", "AWS Auth", "Node JS"],
     category: "web app",
     github: "https://github.com/paramveer-srmscetr/To-do-app",
     //webapp: "https://rishav-react-todo.netlify.app/",
   },
- 
+
   // {
   //   id: 8,
   // },
