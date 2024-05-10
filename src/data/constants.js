@@ -344,8 +344,8 @@ export const projects = [
       "https://github.com/paramveer-srmscetr/To-do-app/assets/82169480/8ac5ea79-6772-444f-b8df-3a986fd83820",
     tags: ["React Js", "Local Storage", "AWS Auth", "Node JS"],
     category: "web app",
-    github: "https://github.com/paramveer-srmscetr/To-do-app",
-    //webapp: "https://rishav-react-todo.netlify.app/",
+    github: "https://github.com/paramveer-srmscetr/MY_Todo_App",
+    webapp: "https://my-todo-app-swart-seven.vercel.app/",
   },
 
   // {
