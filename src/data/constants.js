@@ -341,7 +341,7 @@ export const projects = [
     description:
       " A Todo Web App made with React JS, Redux, and Material UI.  It has a down menu where users can see all the tasks and can create a new task. It has a calendar where users can see all the tasks on a particular date. It has a search bar where users can search for a particular task. They can delete or edit their task.",
     image:
-      "https://github.com/paramveer-srmscetr/To-do-app/assets/82169480/8ac5ea79-6772-444f-b8df-3a986fd83820",
+      "https://github.com/paramveer-srmscetr/MY_Todo_App/assets/82169480/84238053-9442-4963-a976-bf80dedc7e1d",
     tags: ["React Js", "Local Storage", "AWS Auth", "Node JS"],
     category: "web app",
     github: "https://github.com/paramveer-srmscetr/MY_Todo_App",
